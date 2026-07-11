@@ -1,0 +1,23 @@
+# CMake build files
+build/
+cmake-build-*/
+
+# Compiled files
+*.exe
+*.out
+*.o
+*.obj
+
+# Visual Studio
+.vs/
+Debug/
+Release/
+*.vcxproj.user
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db

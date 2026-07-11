@@ -1,0 +1,18 @@
+Trajectory Pattern Index Demo
+=============================
+Loaded patterns: 4
+Query Q001: 2 5 9 60
+
+FPT recommendation: P004 | similarity=0.9910 | support=0.70 | route=2 3 9 60
+Signature Tree recommendation: P004 | similarity=0.9910 | support=0.70 | route=2 3 9 60
+
+Index summary
+-------------
+FPT nodes/depth: 3/2
+Signature Tree nodes/depth: 3/2
+FPT estimated bitmap bytes: 224
+Signature Tree estimated bitmap bytes: 109424
+FPT build/query time (microseconds): 101/19
+Signature Tree build/query time (microseconds): 181/59
+
+All checks passed.
