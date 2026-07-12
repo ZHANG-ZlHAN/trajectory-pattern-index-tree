@@ -330,14 +330,6 @@ It does not:
 
 The included CSV files are small synthetic examples designed to demonstrate the indexing and recommendation workflow.
 
-## Technologies
-
-- C++17
-- CMake
-- hierarchical bitmap indexing
-- tree-based indexing
-- trajectory similarity search
-- algorithm benchmarking
 
 ## Academic Background
 
