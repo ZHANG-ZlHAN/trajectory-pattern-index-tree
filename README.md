@@ -1,6 +1,6 @@
-# Trajectory Pattern Index Tree for Route Recommendation
+# Frequent Path Tree for Trajectory Pattern Recommendation
 
-A C++ portfolio project based on my undergraduate thesis, implementing a **Frequent Path Tree (FPT)** with sparse hierarchical bitmaps for trajectory-pattern indexing and recommendation.
+A C++17 implementation of hierarchical bitmap indexing and similarity-based trajectory pattern recommendation.
 
 ## 概要
 
