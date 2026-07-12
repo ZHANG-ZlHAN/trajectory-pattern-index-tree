@@ -10,6 +10,10 @@ A C++17 implementation of hierarchical bitmap indexing and similarity-based traj
 
 検索軌跡と類似する軌跡パターンを抽出し、類似度と支持度に基づいて推薦結果を返します。
 
+本プロジェクトは、北京工業大学の卒業研究として個人で取り組んだものです。C++を用いて、階層ビットマップ、FPTへの軌跡パターン挿入、ノード分割、類似軌跡検索、およびSignature Treeとの性能比較を実装しました。
+
+本リポジトリでは、当時のVisual Studio向け試作コードを、C++17とCMakeを用いた再現可能なポートフォリオ版として整理しています。
+
 ## Project Background
 
 This project originated from my individual undergraduate thesis in Computer Science and Technology at Beijing University of Technology.
