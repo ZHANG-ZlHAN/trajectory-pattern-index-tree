@@ -2,17 +2,8 @@
 
 A C++17 implementation of hierarchical bitmap indexing and similarity-based trajectory pattern recommendation.
 
-## 概要
 
-本プロジェクトは、移動軌跡パターンを効率的に保存・検索するための C++ アルゴリズム実装です。
-
-従来の Signature Tree で使用される固定長ビットマップを、必要な部分だけを生成する三層階層ビットマップに置き換え、Frequent Path Tree（FPT）を構築しました。
-
-検索軌跡と類似する軌跡パターンを抽出し、類似度と支持度に基づいて推薦結果を返します。
-
-本プロジェクトは、北京工業大学の卒業研究として個人で取り組んだものです。C++を用いて、階層ビットマップ、FPTへの軌跡パターン挿入、ノード分割、類似軌跡検索、およびSignature Treeとの性能比較を実装しました。
-
-本リポジトリでは、当時のVisual Studio向け試作コードを、C++17とCMakeを用いた再現可能なポートフォリオ版として整理しています。
+[日本語版 README](README_ja.md)
 
 ## Project Background
 
